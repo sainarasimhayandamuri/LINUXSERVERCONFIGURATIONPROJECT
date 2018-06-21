@@ -77,7 +77,13 @@ sudo apt-get upgrade
 #### Creating grader User:
   ```
   sudo adduser grader 
-  and password=vinay
+  ```
+
+###  grader password
+  ```
+  vinay
+  ```
+
   ```
   This will add you to new user
   ```
