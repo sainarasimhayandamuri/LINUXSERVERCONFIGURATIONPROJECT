@@ -84,6 +84,11 @@ sudo apt-get upgrade
   vinay
   ```
 
+### passphrase password
+
+  ```
+  there is no passphrase password for my project(you can directly press enter).
+ 
   ```
   This will add you to new user
   ```
